@@ -1,0 +1,471 @@
+﻿Nro;Emotion;Album name;Track;min_sec;mapeo
+1;Anger High;Lethal weapon 3;8;04:15-04:29;Negativo
+2;Anger High;The Rainmaker;7;01:45-02:00;Negativo
+3;Anger High;The Alien Trilogy;9;00:03-00:18;Negativo
+4;Anger High;Cape Fear;1;02:15-02:30;Negativo
+5;Anger High;The Fifth Element;19;00:00-00:20;Negativo
+6;Anger Mod.;Crouching Tiger Hidden Dragon;8;01:12-01:25;Negativo
+7;Anger Mod.;Batman Returns;2;00:18-00:33;Negativo
+8;Anger Mod.;Man of Galilee CD1;6;00:40-01:07;Negativo
+9;Anger Mod.;The Untouchables;8;01:38-01:53;Negativo
+10;Anger Mod.;Oliver Twist;15;02:05-02:25;Negativo
+11;Fear High;Batman Returns;5;00:09-00:25;Negativo
+12;Fear High;JFK;8;01:26-01:40;Negativo
+13;Fear High;JFK;8;00:08-00:25;Negativo
+14;Fear High;The Alien Trilogy;5;00:26-00:41;Negativo
+15;Fear High;Hannibal;1;00:40-00:54;Negativo
+16;Fear Mod.;Running Scared;6;02:53-03:07;Negativo
+17;Fear Mod.;The Untouchables;8;01:38-01:53;Negativo
+18;Fear Mod.;The Fifth Element;17;00:00-00:19;Negativo
+19;Fear Mod.;Lethal weapon 3;7;00:00-00:16;Negativo
+20;Fear Mod.;Man of Galilee CD1;2;03:45-04:02;Negativo
+21;Happy High;The Rainmaker;3;02:55-03:13;Positivo
+22;Happy High;Batman;18;00:55-01:15;Positivo
+23;Happy High;Shallow Grave;6;02:02-02:17;Positivo
+24;Happy High;Man of Galilee CD1;2;03:02-03:18;Positivo
+25;Happy High;Oliver Twist;1;00:17-00:34;Positivo
+26;Happy Mod.;The Omen;9;00:00-00:24;Positivo
+27;Happy Mod.;Oliver Twist;8;01:40-02:04;Positivo
+28;Happy Mod.;Grizzly Man;1;00:00-00:27;Positivo
+29;Happy Mod.;The Portrait of a Lady;3;00:23-00:45;Positivo
+30;Happy Mod.;Nostradamus;2;01:09-01:28;Positivo
+31;Sad High;The English Patient;18;00:07-00:32;Negativo
+32;Sad High;Running Scared;15;02:06-02:27;Negativo
+33;Sad High;The Portrait of a Lady;9;00:00-00:22;Negativo
+34;Sad High;Big Fish;15;00:55-01:11;Negativo
+35;Sad High;Man of Galilee CD1;8;01:20-01:37;Negativo
+36;Sad Mod.;Angel Heart;4;00:08-00:28;Negativo
+37;Sad Mod.;Batman;5;01:08-01:22;Negativo
+38;Sad Mod.;Dracula;7;00:00-00:12;Negativo
+39;Sad Mod.;Shakespeare in Love;3;00:59-01:17;Negativo
+40;Sad Mod.;The English Patient;7;00:00-00:31;Negativo
+41;Tender High;Shine;10;01:28-01:48;Positivo
+42;Tender High;Pride Prejudice;1;00:10-00:26;Positivo
+43;Tender High;Dances with Wolves;4;01:31-01:48;Positivo
+44;Tender High;Pride Prejudice;12;00:01-00:15;Positivo
+45;Tender High;Oliver Twist;8;00:14-00:30;Positivo
+46;Tender Mod.;Batman;9;00:00-00:19;Positivo
+47;Tender Mod.;Oliver Twist;8;01:15-01:32;Positivo
+48;Tender Mod.;Dracula;4;00:55-01:09;Positivo
+49;Tender Mod.;Juha;2;02:11-02:26;Positivo
+50;Tender Mod.;Oliver Twist;2;00:00-00:29;Positivo
+51;Valence Pos. High;Juha;10;00:20-00:38;Positivo
+52;Valence Pos. High;Blanc;12;00:51-01:06;Positivo
+53;Valence Pos. High;Gladiator;17;00:14-00:27;Positivo
+54;Valence Pos. High;Pride Prejudice;9;00:01-00:21;Positivo
+55;Valence Pos. High;Dances with Wolves;10;00:28-00:46;Positivo
+56;Valence Pos. Mod.;Man of Galilee CD1;2;00:19-00:42;Positivo
+57;Valence Pos. Mod.;Shakespeare in Love;21;00:03-00:21;Neutral
+58;Valence Pos. Mod.;Vertigo OST;6;02:02-02:17;Positivo
+59;Valence Pos. Mod.;Vertigo OST;6;04:42-04:57;Positivo
+60;Valence Pos. Mod.;Outbreak;6;00:16-00:31;Positivo
+61;Valence Neg. Mod.;Juha;18;02:30-02:46;Negativo
+62;Valence Neg. Mod.;Shakespeare in Love;11;00:21-00:36;Negativo
+63;Valence Neg. Mod.;Batman;9;00:57-01:16;Negativo
+64;Valence Neg. Mod.;The Fifth Element;9;00:00-00:18;Negativo
+65;Valence Neg. Mod.;Big Fish;15;00:15-00:30;Negativo
+66;Valence Neg. High;The English Patient;8;01:35-01:57;Negativo
+67;Valence Neg. High;Lethal weapon 3;7;00:00-00:16;Negativo
+68;Valence Neg. High;Road to Perdition;6;00:34-00:49;Negativo
+69;Valence Neg. High;Hellraiser;5;00:00-00:15;Negativo
+70;Valence Neg. High;Grizzly Man;16;01:05-01:32;Negativo
+71;Energy Pos. High;The Untouchables;6;01:50-02:05;Positivo
+72;Energy Pos. High;Man of Galilee CD1;2;03:02-03:18;Positivo
+73;Energy Pos. High;Shine;5;02:00-02:16;Positivo
+74;Energy Pos. High;Shine;15;01:00-01:19;Positivo
+75;Energy Pos. High;Batman;18;00:55-01:15;Positivo
+76;Energy Pos. Mod.;Juha;2;00:07-00:18;Positivo
+77;Energy Pos. Mod.;Lethal weapon 3;4;01:40-02:00;Neutral
+78;Energy Pos. Mod.;Crouching Tiger Hidden Dragon;13;01:52-02:10;Positivo
+79;Energy Pos. Mod.;Batman;4;02:31-02:51;Positivo
+80;Energy Pos. Mod.;Oliver Twist;7;01:30-01:46;Positivo
+81;Energy Neg. Mod.;Juha;16;00:00-00:15;Negativo
+82;Energy Neg. Mod.;Big Fish;15;00:55-01:11;Negativo
+83;Energy Neg. Mod.;Big Fish;11;01:26-01:40;Negativo
+84;Energy Neg. Mod.;Blanc;18;00:00-00:16;Negativo
+85;Energy Neg. Mod.;Oliver Twist;6;00:51-01:07;Negativo
+86;Energy Neg. High;Running Scared;15;02:06-02:27;Negativo
+87;Energy Neg. High;Road to Perdition;16;00:17-00:32;Negativo
+88;Energy Neg. High;Blanc;10;00:13-00:31;Negativo
+89;Energy Neg. High;Blanc;16;00:00-00:15;Negativo
+90;Energy Neg. High;Batman Returns;12;00:57-01:14;Negativo
+91;Tension Pos. High;The Alien Trilogy;11;02:12-02:27;Positivo
+92;Tension Pos. High;The Fifth Element;13;00:17-00:31;Positivo
+93;Tension Pos. High;Babylon 5;3;02:47-03:00;Positivo
+94;Tension Pos. High;Hellraiser;10;02:44-03:00;Positivo
+95;Tension Pos. High;Oliver Twist;15;02:05-02:25;Positivo
+96;Tension Pos. Mod.;The Missing;3;02:45-03:06;Positivo
+97;Tension Pos. Mod.;Shallow Grave;4;01:04-01:19;Positivo
+98;Tension Pos. Mod.;Naked Lunch;7;01:01-01:20;Positivo
+99;Tension Pos. Mod.;Dracula;5;00:11-00:27;Positivo
+100;Tension Pos. Mod.;Cape Fear;2;01:25-01:40;Positivo
+101;Tension Neg. Mod.;Juha;2;02:11-02:26;Negativo
+102;Tension Neg. Mod.;Shakespeare in Love;6;00:00-00:19;Neutral
+103;Tension Neg. Mod.;The Fifth Element;12;00:00-00:17;Negativo
+104;Tension Neg. Mod.;Crouching Tiger Hidden Dragon;11;00:28-00:46;Negativo
+105;Tension Neg. Mod.;Pride Prejudice;4;00:10-00:29;Negativo
+106;Tension Neg. High;Lethal weapon 3;10;01:59-02:17;Negativo
+107;Tension Neg. High;The Godfather;5;01:12-01:28;Negativo
+108;Tension Neg. High;Gladiator;4;00:48-01:06;Negativo
+109;Tension Neg. High;Pride Prejudice;13;01:02-01:20;Negativo
+110;Tension Neg. High;Big Fish;8;00:12-00:34;Negativo
+111;Happy;Shallow Grave;6;02:02-02:17;Positivo
+112;Happy;The Rainmaker;2;01:54-02:07;Positivo
+113;Happy;The Rainmaker;3;02:55-03:13;Positivo
+114;Happy;Man of Galilee CD1;2;03:02-03:18;Positivo
+115;Happy;Shakespeare in Love;1;01:06-01:22;Positivo
+116;Happy;The Rainmaker;5;03:07-03:23;Positivo
+117;Happy;Man of Galilee CD1;11;00:00-00:18;Positivo
+118;Happy;Nostradamus;1;00:00-00:16;Positivo
+119;Happy;Band of Brothers;3;01:19-01:36;Positivo
+120;Happy;The Untouchables;6;01:50-02:05;Positivo
+121;Happy;Shine;5;02:00-02:16;Positivo
+122;Happy;Shine;13;00:00-00:20;Positivo
+123;Happy;Shallow Grave;3;01:45-02:00;Positivo
+124;Happy;Shine;5;00:36-00:53;Positivo
+125;Happy;Big Fish;21;00:00-00:15;Positivo
+126;Happy;Big Fish;8;00:12-00:34;Positivo
+127;Happy;Shakespeare in Love;17;00:03-00:23;Positivo
+128;Happy;Shine;15;01:00-01:19;Positivo
+129;Happy;Big Fish;13;01:02-01:17;Positivo
+130;Happy;Vertigo OST;6;04:42-04:57;Positivo
+131;Happy;Gladiator;17;00:14-00:27;Positivo
+132;Happy;Shakespeare in Love;21;00:03-00:21;Positivo
+133;Happy;Big Fish;8;00:35-00:55;Positivo
+134;Happy;The Four Feathers;7;05:40-05:55;Neutral
+135;Happy;Big Fish;12;00:55-01:10;Positivo
+136;Happy;The English Patient;7;00:33-00:58;Positivo
+137;Happy;Shallow Grave;8;00:00-00:15;Positivo
+138;Happy;The English Patient;3;00:28-00:45;Positivo
+139;Happy;Vertigo OST;6;02:02-02:17;Positivo
+140;Happy;The English Patient;7;00:00-00:31;Positivo
+141;Sad;The Four Feathers;10;01:15-01:34;Negativo
+142;Sad;The English Patient;18;00:07-00:32;Negativo
+143;Sad;The English Patient;10;00:24-00:52;Negativo
+144;Sad;Band of Brothers;12;01:09-01:26;Negativo
+145;Sad;Nostradamus;20;01:35-01:52;Negativo
+146;Sad;Running Scared;15;02:06-02:27;Negativo
+147;Sad;Road to Perdition;16;00:17-00:32;Negativo
+148;Sad;Psycho;3;00:58-01:24;Negativo
+149;Sad;Big Fish;15;00:55-01:11;Negativo
+150;Sad;Man of Galilee CD1;8;01:20-01:37;Negativo
+151;Sad;Big Fish;22;00:00-00:20;Negativo
+152;Sad;The Untouchables;4;00:40-00:55;Negativo
+153;Sad;Band of Brothers;15;00:35-00:56;Negativo
+154;Sad;Gladiator;7;02:15-02:38;Negativo
+155;Sad;Gladiator;4;00:48-01:06;Negativo
+156;Sad;Gladiator;14;01:38-02:02;Negativo
+157;Sad;Big Fish;15;00:02-00:17;Negativo
+158;Sad;Road to Perdition;13;00:47-01:02;Negativo
+159;Sad;Running Scared;19;03:11-03:25;Neutral
+160;Sad;Road to Perdition;22;00:00-00:13;Negativo
+161;Sad;The Rainmaker;11;00:37-00:57;Negativo
+162;Sad;Band of Brothers;3;07:43-07:58;Negativo
+163;Sad;The Missing;2;02:31-02:48;Negativo
+164;Sad;Shakespeare in Love;3;00:59-01:17;Negativo
+165;Sad;Shine;18;00:43-01:07;Negativo
+166;Sad;Mississippi Burning;3;00:25-:40;Negativo
+167;Sad;Road to Perdition;8;00:38-00:53;Negativo
+168;Sad;Big Fish;11;01:26-01:40;Negativo
+169;Sad;Road to Perdition;1;00:35-00:50;Negativo
+170;Sad;Shine;28;01:24-01:43;Negativo
+171;Tender;Big Fish;17;00:00-00:15;Positivo
+172;Tender;Shine;10;01:28-01:48;Positivo
+173;Tender;Running Scared;2;00:00-00:25;Positivo
+174;Tender;Shakespeare in Love;2;00:00-00:15;Positivo
+175;Tender;Road to Perdition;26;00:24-00:39;Positivo
+176;Tender;The Missing;3;00:24-00:49;Positivo
+177;Tender;Band of Brothers;3;06:58-07:18;Positivo
+178;Tender;Road to Perdition;13;00:14-00:29;Positivo
+179;Tender;The Four Feathers;12;00:50-01:02;Positivo
+180;Tender;Naked Lunch;11;00:00-00:19;Positivo
+181;Tender;Big Fish;18;00:00-00:13;Positivo
+182;Tender;The Rainmaker;4;02:57-03:10;Neutral
+183;Tender;Man of Galilee CD1;7;02:28-02:53;Positivo
+184;Tender;The Untouchables;9;00:04-00:23;Positivo
+185;Tender;Nostradamus;14;00:54-01:17;Positivo
+186;Tender;The Rainmaker;8;02:13-02:33;Positivo
+187;Tender;Man of Galilee CD1;3;00:55-01:32;Positivo
+188;Tender;Man of Galilee CD1;4;00:00-00:22;Positivo
+189;Tender;Nostradamus;2;01:09-01:28;Positivo
+190;Tender;Nostradamus;7;00:37-00:52;Positivo
+191;Tender;Road to Perdition;26;00:59-01:14;Positivo
+192;Tender;Road to Perdition;26;02:47-03:02;Positivo
+193;Tender;Big Fish;17;01:24-01:39;Positivo
+194;Tender;Big Fish;14;00:14-00:30;Positivo
+195;Tender;Gladiator;4;01:58-02:14;Positivo
+196;Tender;Shine;15;00:45-01:00;Positivo
+197;Tender;The English Patient;2;01:03-01:2;Positivo
+198;Tender;Big Fish;12;00:03-00:20;Positivo
+199;Tender;Naked Lunch;6;00:00-00:16;Positivo
+200;Tender;Road to Perdition;9;01:34-01:48;Positivo
+201;Fear;Running Scared;4;02:49-03:05;Negativo
+202;Fear;Psycho;1;00:00-00:22;Negativo
+203;Fear;Nostradamus;1;01:28-01:45;Neutral
+204;Fear;The Untouchables;10;00:54-01:10;Negativo
+205;Fear;Running Scared;8;00:20-00:35;Negativo
+206;Fear;Cape Fear;5;01:30-01:48;Negativo
+207;Fear;Mississippi Burning;8;00:45-01:00;Negativo
+208;Fear;Road to Perdition;6;00:34-00:49;Negativo
+209;Fear;Dracula;5;02:12-02:28;Negativo
+210;Fear;Psycho;10;00:47-01:08;Negativo
+211;Fear;Shallow Grave;7;00:00-00:15;Negativo
+212;Fear;Gladiator;7;03:00-03:17;Negativo
+213;Fear;The Untouchables;5;02:05-02:20;Negativo
+214;Fear;The Alien Trilogy;11;02:12-02:27;Negativo
+215;Fear;Road to Perdition;12;00:20-00:35;Neutral
+216;Fear;Road to Perdition;17;00:02-00:17;Negativo
+217;Fear;Dracula;2;00:24-00:41;Negativo
+218;Fear;Cape Fear;5;01:05-01:20;Negativo
+219;Fear;Mississippi Burning;2;00:55-01:10;Negativo
+220;Fear;Gladiator;9;02:15-02:36;Negativo
+221;Fear;Cape Fear;1;00:26-00:35;Negativo
+222;Fear;Psycho;9;00:35-00:55;Negativo
+223;Fear;The Untouchables;8;01:38-01:53;Negativo
+224;Fear;Man of Galilee CD1;6;00:40-01:07;Negativo
+225;Fear;The Missing;3;02:45-03:06;Negativo
+226;Fear;Gladiator;9;00:35-00:51;Negativo
+227;Fear;Shakespeare in Love;11;00:21-00:36;Negativo
+228;Fear;Band of Brothers;4;00:24-00:44;Negativo
+229;Fear;Band of Brothers;15;02:14-02:27;Negativo
+230;Fear;Nostradamus;15;02:48-03:05;Negativo
+231;Anger;Cape Fear;13;01:02-01:20;Negativo
+232;Anger;Gladiator;13;01:18-01:26;Negativo
+233;Anger;Gladiator;3;04:55-05:17;Negativo
+234;Anger;The Rainmaker;7;01:45-02:00;Negativo
+235;Anger;The Alien Trilogy;9;00:03-00:18;Negativo
+236;Anger;The Alien Trilogy;9;01:14-01:29;Negativo
+237;Anger;Gladiator;3;02:25-02:46;Negativo
+238;Anger;The Four Feathers;9;02:42-02:57;Negativo
+239;Anger;The Missing;3;03:24-03:42;Negativo
+240;Anger;Road to Perdition;25;01:12-01:27;Negativo
+241;Anger;Shine;9;00:48-01:04;Negativo
+242;Anger;Psycho;17;00:27-00:45;Negativo
+243;Anger;Cape Fear;13;00:02-00:20;Negativo
+244;Anger;Shakespeare in Love;15;00:40-00:56;Negativo
+245;Anger;Nostradamus;6;01:32-01:47;Negativo
+246;Anger;The Missing;12;00:28-00:46;Negativo
+247;Anger;Running Scared;15;03:20-03:33;Negativo
+248;Anger;Cape Fear;12;00:02-00:20;Negativo
+249;Anger;The Alien Trilogy;6;00:00-00:15;Negativo
+250;Anger;Running Scared;16;03:30-03:45;Negativo
+251;Anger;Cape Fear;6;01:02-01:20;Negativo
+252;Anger;The Missing;12;00:00-00:24;Negativo
+253;Anger;Naked Lunch;16;00:55-01:12;Negativo
+254;Anger;Cape Fear;6;00:00-00:20;Negativo
+255;Anger;Shakespeare in Love;11;00:45-00:59;Neutral
+256;Anger;The Missing;10;04:44-05:01;Negativo
+257;Anger;The Rainmaker;6;05:24-05:42;Negativo
+258;Anger;Road to Perdition;25;00:13-00:27;Negativo
+259;Anger;Band of Brothers;18;00:40-01:00;Negativo
+260;Anger;Shakespeare in Love;9;00:00-00:22;Negativo
+261;Surprise;The Rainmaker;5;00:00-00:16;Positivo
+262;Surprise;The Rainmaker;9;01:36-01:46;Positivo
+263;Surprise;Naked Lunch;14;01:02-01:17;Positivo
+264;Surprise;Naked Lunch;18;00:14-00:30;Positivo
+265;Surprise;The Rainmaker;4;04:31-04:43;Positivo
+266;Surprise;Shallow Grave;4;01:04-01:19;Positivo
+267;Surprise;The Alien Trilogy;5;00:26-00:41;Positivo
+268;Surprise;Naked Lunch;8;04:00-04:16;Positivo
+269;Surprise;Road to Perdition;20;00:25-00:40;Positivo
+270;Surprise;Man of Galilee CD1;2;00:19-00:42;Positivo
+271;Surprise;Band of Brothers;6;00:00-00:20;Positivo
+272;Surprise;Man of Galilee CD1;2;03:45-04:02;Positivo
+273;Surprise;Naked Lunch;7;01:01-01:20;Positivo
+274;Surprise;Naked Lunch;17;00:00-00:19;Positivo
+275;Surprise;Cape Fear;14;00:02-00:20;Positivo
+276;Surprise;Cape Fear;15;02:32-02:50;Positivo
+277;Surprise;Road to Perdition;14;00:00-00:15;Neutral
+278;Surprise;Cape Fear;1;02:15-02:30;Positivo
+279;Surprise;The Missing;12;02:35-02:55;Positivo
+280;Surprise;The English Patient;8;01:35-01:57;Neutral
+281;Surprise;Band of Brothers;2;00:34-00:57;Neutral
+282;Surprise;Road to Perdition;14;01:15-01:30;Neutral
+283;Surprise;Running Scared;6;02:53-03:07;Neutral
+284;Surprise;The English Patient;8;00:38-00:57;Positivo
+285;Surprise;Nostradamus;18;01:59-02:15;Positivo
+286;Surprise;Running Scared;22;01:28-01:43;Positivo
+287;Surprise;Cape Fear;2;01:25-01:40;Positivo
+288;Surprise;Big Fish;15;00:15-00:30;Positivo
+289;Surprise;Band of Brothers;12;02:31-02:48;Positivo
+290;Surprise;Shakespeare in Love;6;00:00-00:19;Positivo
+291;High Val.;Batman;9;02:03-02:25;Positivo
+292;High Val.;Dances with Wolves;2;00:49-01:03;Positivo
+293;High Val.;The Fifth Element;24;01:39-02:03;Positivo
+294;High Val.;The Ocellus Suite;4;01:19-01:39;Positivo
+295;High Val.;Mother of Mine;1;01:31-01:49;Positivo
+296;High Val.;The Portrait of a Lady;7;00:00-00:16;Positivo
+297;High Val.;Juha;10;00:20-00:38;Positivo
+298;High Val.;Dances with Wolves;10;00:28-00:46;Positivo
+299;High Val.;Blanc;12;00:51-01:06;Positivo
+300;High Val.;Pride and Prejudice;9;00:01-00:21;Positivo
+301;High Val.;The Godfather;5;01:12-01:28;Positivo
+302;High Val.;Oliver Twist;1;00:17-00:34;Positivo
+303;High Val.;JFK;1;02:31-02:49;Positivo
+304;High Val.;The Portrait of a Lady;12;00:18-00:35;Positivo
+305;High Val.;Juha;7;00:03-00:15;Positivo
+306;High Val.;Dracula;11;03:27-03:42;Positivo
+307;High Val.;Mother of Mine;4;00:11-00:25;Positivo
+308;High Val.;The Omen ;2;00:16-00:33;Positivo
+309;High Val.;Juha;10;01:35-01:53;Positivo
+310;High Val.;Crouching Tiger Hidden Dragon;2;01:40-01:57;Positivo
+311;High Val.;Dances with Wolves;4;01:21-01:31;Positivo
+312;High Val.;Juha;1;00:42-00:59;Positivo
+313;High Val.;Grizzly Man;19;01:04-01:24;Positivo
+314;High Val.;Outbreak;6;00:16-00:31;Positivo
+315;High Val.;Oliver Twist;4;01:10-01:30;Neutral
+316;High Val.;Batman;20;01:09-01:33;Positivo
+317;High Val.;Juha;7;00:17-00:36;Positivo
+318;High Val.;Blanc;9;00:17-00:35;Positivo
+319;High Val.;Crouching Tiger Hidden Dragon;13;00:35-00:49;Neutral
+320;High Val.;Crouching Tiger Hidden Dragon;13;01:52-02:10;Neutral
+321;Low Val.;Last samurai;2;02:20-02:40;Negativo
+322;Low Val.;Batman Returns;5;00:54-01:10;Negativo
+323;Low Val.;Batman;4;02:11-02:31;Negativo
+324;Low Val.;Grizzly Man;15;00:57-01:15;Negativo
+325;Low Val.;Grizzly Man;16;01:05-01:32;Negativo
+326;Low Val.;JFK;9;02:07-02:21;Negativo
+327;Low Val.;Lethal weapon 3;8;01:25-01:41;Negativo
+328;Low Val.;Hellraiser;5;00:00-00:15;Negativo
+329;Low Val.;Batman Returns;5;00:09-00:25;Negativo
+330;Low Val.;The Fifth Element;20;00:16-00:37;Negativo
+331;Low Val.;Hellraiser;9;00:30-00:44;Negativo
+332;Low Val.;The Fifth Element;2;02:23-02:38;Negativo
+333;Low Val.;Babylon 5;9;01:08-01:24;Negativo
+334;Low Val.;Outbreak;7;00:05-00:21;Negativo
+335;Low Val.;Batman;8;00:34-00:58;Negativo
+336;Low Val.;Dracula;1;05:30-05:45;Negativo
+337;Low Val.;Lethal weapon 3;8;04:15-04:29;Negativo
+338;Low Val.;The Ocellus Suite;3;00:00-00:17;Negativo
+339;Low Val.;Outbreak;12;00:00-00:15;Negativo
+340;Low Val.;Babylon 5;3;02:47-03:00;Negativo
+341;Low Val.;Batman Returns;4;00:19-00:35;Negativo
+342;Low Val.;Batman Returns;6;02:06-02:21;Negativo
+343;Low Val.;Juha;3;00:39-00:55;Negativo
+344;Low Val.;Oliver Twist;15;02:05-02:25;Negativo
+345;Low Val.;The Godfather;9;00:35-00:48;Negativo
+346;Low Val.;Lethal weapon 3;5;00:20-00:40;Negativo
+347;Low Val.;The Fifth Element;9;00:00-00:18;Negativo
+348;Low Val.;Crouching Tiger Hidden Dragon;7;03:37-03:56;Negativo
+349;Low Val.;The Fifth Element;19;00:00-00:20;Negativo
+350;Low Val.;Dracula;5;00:11-00:27;Negativo
+351;High Ener.;The Godfather;11;00:49-01:06;Positivo
+352;High Ener.;Grizzly Man;3;01:01-01:18;Positivo
+353;High Ener.;Batman Returns;9;00:51-01:04;Positivo
+354;High Ener.;The Portrait of a Lady;8;00:37-00:56;Positivo
+355;High Ener.;Batman Returns;8;00:03-00:17;Positivo
+356;High Ener.;Oliver Twist;8;01:40-02:04;Positivo
+357;High Ener.;Juha;13;01:05-01:20;Positivo
+358;High Ener.;Mother of Mine;13;00:11-00:26;Positivo
+359;High Ener.;Outbreak;2;00:22-00:37;Positivo
+360;High Ener.;Batman;18;00:55-01:15;Positivo
+361;High Ener.;The Fifth Element;15;00:08-00:22;Positivo
+362;High Ener.;Crouching Tiger Hidden Dragon;6;00:38-00:51;Positivo
+363;High Ener.;Crouching Tiger Hidden Dragon;8;01:12-01:25;Positivo
+364;High Ener.;Blanc;7;00:42-00:55;Positivo
+365;High Ener.;JFK;3;01:56-02:12;Positivo
+366;High Ener.;The Portait of a Lady;9;01:50-02:10;Positivo
+367;High Ener.;Crouching Tiger Hidden Dragon;4;02:45-03:02;Positivo
+368;High Ener.;The Ocellus Suite;5;03:47-04:00;Positivo
+369;High Ener.;Blanc;21;00:04-00:17;Positivo
+370;High Ener.;Batman;4;02:31-02:51;Positivo
+371;High Ener.;Lethal weapon 3;4;01:40-02:00;Positivo
+372;High Ener.;Oliver Twist;7;01:30-01:46;Positivo
+373;High Ener.;Pride and Prejudice;4;00:10-00:29;Positivo
+374;High Ener.;Dances with Wolves;10;01:33-01:51;Positivo
+375;High Ener.;Juha;2;00:07-00:18;Positivo
+376;High Ener.;JFK;8;01:26-01:40;Positivo
+377;High Ener.;Outbreak;1;00:50-01:05;Positivo
+378;High Ener.;Juha;5;00:29-00:43;Positivo
+379;High Ener.;Juha;18;02:30-02:46;Positivo
+380;High Ener.;The Omen;9;00:00-00:24;Positivo
+381;Low Ener.;Pride and Prejudice;15;01:18-01:33;Negativo
+382;Low Ener.;Pride and Prejudice;3;01:40-02:00;Negativo
+383;Low Ener.;Batman Returns;12;00:57-01:14;Negativo
+384;Low Ener.;Angel Heart;4;00:08-00:28;Negativo
+385;Low Ener.;JFK;11;00:00-00:16;Negativo
+386;Low Ener.;Dracula;7;00:00-00:12;Negativo
+387;Low Ener.;Last samurai;1;00:05-00:29;Negativo
+388;Low Ener.;Pride and Prejudice;13;01:02-01:20;Negativo
+389;Low Ener.;Mother of Mine;16;01:55-02:10;Negativo
+390;Low Ener.;Blanc;16;00:00-00:15;Negativo
+391;Low Ener.;Dances with Wolves;11;00:47-01:03;Negativo
+392;Low Ener.;Crouching Tiger Hidden Dragon;5;00:00-00:15;Negativo
+393;Low Ener.;Blanc;10;00:13-00:31;Negativo
+394;Low Ener.;The Portrait of a Lady;4;00:00-00:17;Negativo
+395;Low Ener.;Juha;16;00:19-00:33;Negativo
+396;Low Ener.;The Omen;8;00:33-00:51;Negativo
+397;Low Ener.;Juha;19;01:35-01:52;Negativo
+398;Low Ener.;The Portrait of a Lady;9;00:00-00:22;Negativo
+399;Low Ener.;Outbreak;8;01:55-02:10;Negativo
+400;Low Ener.;The Omen;4;01:02-01:16;Negativo
+401;Low Ener.;The Fifth Element;18;00:05-00:22;Negativo
+402;Low Ener.;Batman;9;00:00-00:19;Negativo
+403;Low Ener.;Crouching Tiger Hidden Dragon;11;00:28-00:46;Negativo
+404;Low Ener.;Juha;16;00:00-00:15;Negativo
+405;Low Ener.;Blanc;18;00:00-00:16;Negativo
+406;Low Ener.;Oliver Twist;2;00:00-00:29;Negativo
+407;Low Ener.;Batman;5;01:08-01:22;Negativo
+408;Low Ener.;Mother of Mine;1;00:00-00:15;Negativo
+409;Low Ener.;Oliver Twist;8;00:14-00:30;Negativo
+410;Low Ener.;Batman;9;01:31-01:38;Negativo
+411;High Tens.;Last samurai;9;03:37-03:51;Positivo
+412;High Tens.;The Omen;5;00:00-00:15;Positivo
+413;High Tens.;Hellraiser;8;00:00-00:17;Neutral
+414;High Tens.;Hellraiser;12;01:30-01:49;Positivo
+415;High Tens.;JFK;2;00:33-00:48;Positivo
+416;High Tens.;Hellraiser;10;02:44-03:00;Positivo
+417;High Tens.;Oliver Twist;8;02:39-03:02;Positivo
+418;High Tens.;JFK;2;01:34-01:49;Positivo
+419;High Tens.;The Fifth Element;13;00:17-00:31;Positivo
+420;High Tens.;Last samurai;9;02:30-02:50;Neutral
+421;High Tens.;Oliver Twist;10;00:00-00:20;Positivo
+422;High Tens.;Hannibal;6;00:40-00:55;Positivo
+423;High Tens.;Hannibal;1;00:40-00:54;Positivo
+424;High Tens.;Batman;1;00:47-01:04;Positivo
+425;High Tens.;Outbreak;11;00:00-00:15;Positivo
+426;High Tens.;Batman Returns;2;00:18-00:33;Positivo
+427;High Tens.;Angel Heart;3;00:43-00:59;Positivo
+428;High Tens.;The Fifth Element;23;00:04-00:23;Neutral
+429;High Tens.;Crouching Tiger Hidden Dragon;3;00:00-00:15;Positivo
+430;High Tens.;JFK;8;00:08-00:25;Positivo
+431;High Tens.;The Fifth Element;17;00:00-00:19;Positivo
+432;High Tens.;Pride and Prejudice;13;00:15-00:32;Positivo
+433;High Tens.;Hannibal;9;08:22-08:38;Positivo
+434;High Tens.;Dracula;6;01:46-02:03;Positivo
+435;High Tens.;Lethal weapon 3;7;00:00-00:16;Neutral
+436;High Tens.;The Omen;12;00:40-00:50;Positivo
+437;High Tens.;Crouching Tiger Hidden Dragon;12;03:16-03:32;Positivo
+438;High Tens.;Angel Heart;9;02:40-03:00;Positivo
+439;High Tens.;Oliver Twist;6;00:51-01:07;Neutral
+440;High Tens.;Oliver Twist;12;03:07-03:27;Positivo
+441;Low Tens.;Pride and Prejudice;12;00:01-00:15;Negativo
+442;Low Tens.;JFK;4;00:00-00:15;Negativo
+443;Low Tens.;Lethal weapon 3;10;01:59-02:17;Negativo
+444;Low Tens.;Dances with Wolves;4;01:31-01:48;Negativo
+445;Low Tens.;Pride and Prejudice;1;00:10-00:26;Negativo
+446;Low Tens.;Dances with Wolves;8;00:39-00:59;Negativo
+447;Low Tens.;JFK;11;00:35-00:50;Negativo
+448;Low Tens.;Lethal weapon 3;10;00:59-01:12;Negativo
+449;Low Tens.;Dances with Wolves;12;01:08-01:21;Negativo
+450;Low Tens.;The Portrait of a Lady;3;00:23-00:45;Negativo
+451;Low Tens.;The Fifth Element;14;00:00-00:20;Negativo
+452;Low Tens.;Blanc;18;00:48-01:05;Negativo
+453;Low Tens.;Grizzly Man;1;00:00-00:27;Negativo
+454;Low Tens.;Mother of Mine;16;00:26-00:41;Negativo
+455;Low Tens.;Crouching Tiger Hidden Dragon;1;00:51-01:13;Neutral
+456;Low Tens.;Oliver Twist;8;01:15-01:32;Negativo
+457;Low Tens.;Crouching Tiger Hidden Dragon;5;00:15-00:30;Negativo
+458;Low Tens.;Crouching Tiger Hidden Dragon;2;01:10-01:25;Negativo
+459;Low Tens.;Juha;2;02:11-02:26;Negativo
+460;Low Tens.;The Fifth Element;5;00:13-00:30;Negativo
+461;Low Tens.;Crouching Tiger Hidden Dragon;1;00:00-00:15;Negativo
+462;Low Tens.;The Fifth Element;16;00:18-00:38;Negativo
+463;Low Tens.;The Fifth Element;12;00:00-00:17;Negativo
+464;Low Tens.;Grizzly Man;2;00:00-03:50;Negativo
+465;Low Tens.;JFK;16;05:07-05:24;Negativo
+466;Low Tens.;Lethal weapon 3;7;03:54-04:13;Negativo
+467;Low Tens.;Dracula;4;00:55-01:09;Negativo
+468;Low Tens.;Angel Heart;8;00:39-00:55;Neutral
+469;Low Tens.;Batman;18;02:46-03:02;Negativo
+470;Low Tens.;Batman;9;00:57-01:16;Negativo

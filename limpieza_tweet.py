@@ -10,7 +10,7 @@ from unidecode import unidecode
 
 nlp = spacy.load('es_core_news_sm')
 
-
+# elimina enlaces web
 def eliminar_enlaces(texto):
     patron_enlace = r'https?://\S+'
     return re.sub(patron_enlace, '', texto)
@@ -22,6 +22,7 @@ def eliminar_stop(texto):
     texto_sin_stopwords = [token.text for token in doc if not token.is_stop]
     return ' '.join(texto_sin_stopwords)
 
+# Elimina tildes, preservando las "ñ"
 def eliminar_tildes(texto):
     texto_transformado = ''
     for caracter in texto:
@@ -31,17 +32,7 @@ def eliminar_tildes(texto):
             texto_transformado += unidecode(caracter)
     return texto_transformado
 
-def lemmatizar(texto):
-
-    # eliminar stopwords y lematizar el texto
-    doc = nlp(texto)
-    filtered_tokens = []
-    for token in doc:
-        if token.is_stop or token.is_punct:
-            continue
-        filtered_tokens.append(token.lemma_)
-    
-    return " ".join(filtered_tokens).strip()
+# Elimina caracteres espaciales preservando las "caritas"
 
 def limpiar_especiales(texto):
     
@@ -82,20 +73,37 @@ def limpieza(df):
     
     data_tweet['original'] = data_tweet['tweet']
     data_tweet['tweet'] = data_tweet['tweet'].apply(eliminar_enlaces)
+    
+    #Eliminar usuarios de twitter etiquetados en la publicación 
     data_tweet['tweet'] = data_tweet['tweet'].str.replace(r'@\w+|#\w+', '', regex=True)
+    
     data_tweet['tweet'] = data_tweet['tweet'].apply(suprimir_repeticiones)
+    
+    #reemplazar las caritas por palabras representativas
     data_tweet['tweet'] = data_tweet['tweet'].str.replace(":)"," feliz ")
     data_tweet['tweet'] = data_tweet['tweet'].str.replace(":D"," feliz ")
     data_tweet['tweet'] = data_tweet['tweet'].str.replace(":-)"," feliz ") 
     data_tweet['tweet'] = data_tweet['tweet'].str.replace(":("," triste ")
+    
     data_tweet['tweet'] = data_tweet['tweet'].apply(eliminar_tildes)
+    
+    #Eliminar vacíos del inicio y final 
     data_tweet['tweet'] = data_tweet['tweet'].str.strip()
+    
+    #Convertir a minúsculas
     data_tweet['tweet'] = data_tweet['tweet'].str.lower()
+    
     data_tweet['tweet'] = data_tweet['tweet'].apply(limpiar_especiales)
+    #Eliminar comilla doble
     data_tweet['tweet'] = data_tweet['tweet'].str.replace('"', '')
+    #Eliminar 
     data_tweet['tweet'] = data_tweet['tweet'].str.replace(r'\d+', ' ', regex=True)
+    #reemplazar salto de linea por espacio
     data_tweet['tweet'] = data_tweet['tweet'].str.replace('\n', ' ')
+    
     data_tweet['tweet'] = data_tweet['tweet'].str.replace(r'\s+', ' ', regex=True)
     data_tweet["tweet"] = data_tweet["tweet"].apply(procesar_tweet)
+    
+    #Eliminar vacíos del inicio y final 
     data_tweet['tweet'] = data_tweet['tweet'].str.strip()
     return data_tweet  

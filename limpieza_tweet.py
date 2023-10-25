@@ -96,11 +96,12 @@ def limpieza(df):
     data_tweet['tweet'] = data_tweet['tweet'].apply(limpiar_especiales)
     #Eliminar comilla doble
     data_tweet['tweet'] = data_tweet['tweet'].str.replace('"', '')
-    #Eliminar 
+    #Eliminar numéricos
     data_tweet['tweet'] = data_tweet['tweet'].str.replace(r'\d+', ' ', regex=True)
     #reemplazar salto de linea por espacio
     data_tweet['tweet'] = data_tweet['tweet'].str.replace('\n', ' ')
-    
+
+    #Reducir mas de 1 espacio a solo 1 
     data_tweet['tweet'] = data_tweet['tweet'].str.replace(r'\s+', ' ', regex=True)
     data_tweet["tweet"] = data_tweet["tweet"].apply(procesar_tweet)
     
